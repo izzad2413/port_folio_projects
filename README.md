@@ -2,4 +2,4 @@
 
 This folder contain my personal data science related projects. Generally, the programming languages used for these projects are python & SQL. 
 
-** language-used_project-name **
+** language-used_portfolioproject_project-name **
